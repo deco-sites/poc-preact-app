@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/poc-preact-app/": "./",
+
     "deco-sites/black-friday-lp/": "./",
 
     "$store/": "./",
